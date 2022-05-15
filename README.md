@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashed-sarder-xeon" alt="rashed-sarder-xeon" /></a> </p>
 
-- 🔭 I’m currently working on **ERP Software**
+- 🔭 I’m currently working on [ERP Software](https://github.com/Xeon-Technology/ERP-Web)
 
 - 🌱 I’m currently learning **JavaScript, GraphQL, React, .NET core, .NET GraphQL**
 
-- 👯 I’m looking to collaborate on **Ecommerce Software**
+- 👯 I’m looking to collaborate on [Full Stack Development](https://github.com/Xeon-Technology/Xeon-Dynamic-Website-Admin)
 
-- 🤝 I’m looking for help with **Xeon Team**
+- 🤝 I’m looking for help with [Xeon Team](https://github.com/Xeon-Technology)
 
 - 💬 Ask me about **React**
 
@@ -22,6 +22,7 @@
 <a href="https://twitter.com/@rashedsarder13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rashedsarder13" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rashed-sarder13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashed-sarder13" height="30" width="40" /></a>
 <a href="https://fb.com/rashed.sarder.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashed.sarder.13" height="30" width="40" /></a>
+<a href="https://instagram.com/rashed.sarder.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashed.sarder.13" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
