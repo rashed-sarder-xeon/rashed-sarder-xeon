@@ -1,35 +1,246 @@
-<h1 align="center">Hi 👋, I'm Rashed Sarder</h1>
-<h3 align="center">A passionate React developer from Bangladesh</h3>
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Nice to see you </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashed-sarder-xeon&label=Profile%20views&color=0e75b6&style=flat" alt="rashed-sarder-xeon" /> </p>
+<p align="center"> 
+     <img src="https://visitor-badge.laobi.icu/badge?page_id=rashed-sarder-xeon" alt="Visitor"/>
+<!--     <img src="https://komarev.com/ghpvc/?username=rashed-sarder-xeon" alt="rashed-sarder-xeon"/>        -->
+    <a href="https://github.com/rashed-sarder-xeon?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/rashed-sarder-xeon" alt="Repos"/></a> 
+    <img src="https://badges.pufler.dev/years/rashed-sarder-xeon" alt="Active_Years"/>  
+    <a href="https://github.com/rashed-sarder-xeon/rashed-sarder-xeon" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/rashed-sarder-xeon" alt="commits"/>   
+    <a href="https://github.com/rashed-sarder-xeon?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/rashed-sarder-xeon?color=4C1&logo=github"></a>
+<!--     <a href="https://github.com/rashed-sarder-xeon/rashed-sarder-xeon" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/rashed-sarder-xeon/rashed-sarder-xeon?label=Profile%20update&style=fflat-square"></a> -->
+</p> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashed-sarder-xeon" alt="rashed-sarder-xeon" /></a> </p>
+<h3 align="center">Hi 👋, I'm Md Rashed Sarder</h3>
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [ERP Software](https://github.com/Xeon-Technology/ERP-Web)
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashed-sarder-xeon" alt="rashed-sarder-xeon" /></a> </p> -->
 
-- 🌱 I’m currently learning **JavaScript, GraphQL, React, .NET core, .NET GraphQL**
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashed-sarder-xeon&theme=gruvbox" alt="rashed-sarder-xeon" /></a> </p>
 
-- 👯 I’m looking to collaborate on [Full Stack Development](https://github.com/Xeon-Technology/Xeon-Dynamic-Website-Admin)
 
-- 🤝 I’m looking for help with [Xeon Team](https://github.com/Xeon-Technology)
+---
 
-- 💬 Ask me about **React**
+### :blush: Talking about Personal Stuffs:
 
-- 📫 How to reach me **rashedsarder13@gmail.com**
+<img align="right" height="250" width="400" alt="Md Rashed Sarder" src="assets/profile.gif" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@rashedsarder13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rashedsarder13" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rashed-sarder13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashed-sarder13" height="30" width="40" /></a>
-<a href="https://fb.com/rashed.sarder.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashed.sarder.13" height="30" width="40" /></a>
-<a href="https://instagram.com/rashed.sarder.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashed.sarder.13" height="30" width="40" /></a>
+-  💻 &nbsp; I love exploring new tech stacks and building cool stuff.
+-  📰 &nbsp; Reading tech blogs whenever possible.
+-  🍕 &nbsp; Travelling, meetups & tech events.
+-  🚀 &nbsp; I’m currently learning Full Stack Web Development with .NET and React JS.
+-  :computer: &nbsp; Most written code line `console.log("hello world");`
+-  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rashed-sarder-xeon).
+-  👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
+-  📝 &nbsp; Checkout my [Website]( https://github.com/rashedsarder13).
+
+---
+
+### :dart: Languages and Tools:
+
+> Tools, languages, and other things that I like to work with.
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="Javascript" />
+      </a>
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="ReactJS" />
+      </a>
+      <br>ReactJS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="48" height="48" alt="NextJS" />
+      </a>
+      <br>NextJS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
+      </a>
+      <br>GraphQL
+    </td>
+    <td align="center" width="96"> 
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+     <td align="center" width="96">
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="48" height="48" alt="Microsoft .Net" />
+      </a>
+      <br>Microsoft .Net
+    </td>
+    </tr>
+    <tr>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://www.kindpng.com/picc/m/765-7652239_react-native-svg-logo-hd-png-download.png" width="48" height="48" alt="React Native" />
+      </a>
+      <br>React Native
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="48" height="48" alt="Github" />
+      </a>
+      <br>Github
+    </td>
+    <td align="center"  width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="48" height="48" alt="npm" />
+      </a>
+      <br>npm
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="assets/mui.png" width="48" height="48" alt="Material Ui" />
+      </a>
+      <br>Material Ui
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" width="48" height="48" alt="Wordpress" />
+      </a>
+      <br>Wordpress
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://img.icons8.com/color/480/000000/woocommerce.png" width="48" height="48" alt="WooCommerce" />
+      </a>
+      <br>WooCommerce
+    </td>
+     <td align="center" width="96">
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-official.svg" width="48" height="48" alt="Digital Ocean" />
+      </a>
+      <br>Digital Ocean
+    </td>
+     <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="48" height="48" alt="Photoshop" />
+      </a>
+      <br>Photoshop
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="48" height="48" alt="Adobe Illustrator" />
+      </a>
+      <br>Adobe Illustrator
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/120px-Adobe_XD_CC_icon.svg.png?20210729021535" width="48" height="48" alt="Adobe XD" />
+      </a>
+      <br>Adobe XD
+    </td>
+  </tr>
+</table>
+
+---
+
+### :boy: A little more about me:
+
+```javascript
+const rashed-sarder-xeon= {
+   name: 'Md Rashed Sarder',
+   pronouns: 'He' | 'Him',
+   languageSpoken: ['en_US', 'bn_BD'],
+   code: ['Javascript', 'HTML', 'CSS', C#],
+   askMeAbout: ['web dev', 'tech', 'designing'],
+   technologies: {
+      web: {
+         frontEnd: ['ReactJS', 'NextJS', 'Bootstrap', 'Material Ui'],
+         backEnd: ['ASP .Net Core', 'GraphQL'],
+      },
+      mobile: ['React Native'],
+      databases: ['MySql', 'MSSql'],
+      vps: ['DigitalOcean']
+   },
+   currentFocus: 'Software Architect',
+};
+```
+
+---
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/rashed-sarder-xeon">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rashed-sarder-xeon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rashed-sarder-xeon&layout=compact&langs_count=8&theme=algolia"/> -->
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashed-sarder-xeon&show_icons=true&locale=en&layout=compact" alt="rashed-sarder-xeon" /></p>
+### ⚡ &nbsp;Recent GitHub Activity
+  
+<a href="https://github.com/rashed-sarder-xeon"><img alt="rashed’s Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rashed-sarder-xeon&custom_title=Rashed's%20Contribution%20Graph&theme=react-dark" /></a>
+   
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashed-sarder-xeon&show_icons=true&locale=en" alt="rashed-sarder-xeon" /></p>
+ ### &nbsp;Connect with me<img src="assets/Handshake.gif" width="30px" height="30px">
+ 
+ ---
+ 
+ <p align="center">
+<a href="https://github.com/rashedsarder13/"><img src="https://img.shields.io/badge/- https://github.com/rashedsarder13 -3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ rashed.sarder.13/"><img src="https://img.shields.io/badge/-Rashed%20Sarder-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:rashedsarder13@gmail.com"><img src="https://img.shields.io/badge/- rashedsarder13@gmail.com -D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/ rashed.sarder.13/"><img src="https://img.shields.io/badge/-@rashed.sarder.13-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/ rashed.sarder.13/"><img src="https://img.shields.io/badge/-@ rashed.sarder.13 -1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashed-sarder-xeon&" alt="rashed-sarder-xeon" /></p>
+Credits: [Md Rashed Sarder](https://github.com/rashed-sarder-xeon)
+ 
+<!-- <div align="center">
+<h2> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="assets/Handshake.gif" width="28px" height="28px"></a></h2> 
+<p align="center">
+    <a href="https://www.linkedin.com/in/rashed.sarder.13/" target="_blank"><img alt="LinkedIn" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
+    <a href="https://www.instagram.com/ rashed.sarder.13/" target="_blank"><img alt="Instagram" width="25px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a>
+    <a href="https://www.facebook.com/ rashed.sarder.13/" target="_blank"><img alt="Facebook" width="25px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"></a>
+    <a href="mailto:rashedsarder13@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a> 
+</p>
+</div> -->
