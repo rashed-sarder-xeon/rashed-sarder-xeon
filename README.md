@@ -3,9 +3,9 @@
 <p align="center"> 
      <img src="https://visitor-badge.laobi.icu/badge?page_id=rashed-sarder-xeon" alt="Visitor"/>
 <!--     <img src="https://komarev.com/ghpvc/?username=rashed-sarder-xeon" alt="rashed-sarder-xeon"/>        -->
-    <a href="https://github.com/rashed-sarder-xeon?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/rashed-sarder-xeon" alt="Repos"/></a> 
-    <img src="https://badges.pufler.dev/years/rashed-sarder-xeon" alt="Active_Years"/>  
-    <a href="https://github.com/rashed-sarder-xeon/rashed-sarder-xeon" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/rashed-sarder-xeon" alt="commits"/>   
+<!--     <a href="https://github.com/rashed-sarder-xeon?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/rashed-sarder-xeon" alt="Repos"/></a>  -->
+<!--     <img src="https://badges.pufler.dev/years/rashed-sarder-xeon" alt="Active_Years"/>   -->
+<!--     <a href="https://github.com/rashed-sarder-xeon/rashed-sarder-xeon" target="_blank"><img src="https://badges.pufler.dev/commits/monthly/rashed-sarder-xeon" alt="commits"/>    -->
     <a href="https://github.com/rashed-sarder-xeon?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/rashed-sarder-xeon?color=4C1&logo=github"></a>
 <!--     <a href="https://github.com/rashed-sarder-xeon/rashed-sarder-xeon" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/rashed-sarder-xeon/rashed-sarder-xeon?label=Profile%20update&style=fflat-square"></a> -->
 </p> 
@@ -215,9 +215,9 @@ const rashed-sarder-xeon= {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### ⚡ &nbsp;Recent GitHub Activity
+<!-- ### ⚡ &nbsp;Recent GitHub Activity
   
-<a href="https://github.com/rashed-sarder-xeon"><img alt="rashed’s Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rashed-sarder-xeon&custom_title=Rashed's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/rashed-sarder-xeon"><img alt="rashed’s Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rashed-sarder-xeon&custom_title=Rashed's%20Contribution%20Graph&theme=react-dark" /></a> -->
    
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
