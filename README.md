@@ -101,12 +101,6 @@
       </a>
       <br>TypeScript
     </td>
-     <td align="center" width="96">
-      <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="48" height="48" alt="Microsoft .Net" />
-      </a>
-      <br>Microsoft .Net
-    </td>
     </tr>
     <tr>
     <td align="center" width="96">
@@ -132,48 +126,6 @@
         <img src="assets/mui.png" width="48" height="48" alt="Material Ui" />
       </a>
       <br>Material Ui
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" width="48" height="48" alt="Wordpress" />
-      </a>
-      <br>Wordpress
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://img.icons8.com/color/480/000000/woocommerce.png" width="48" height="48" alt="WooCommerce" />
-      </a>
-      <br>WooCommerce
-    </td>
-     <td align="center" width="96">
-      <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-official.svg" width="48" height="48" alt="Digital Ocean" />
-      </a>
-      <br>Digital Ocean
-    </td>
-     <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="48" height="48" alt="Photoshop" />
-      </a>
-      <br>Photoshop
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="48" height="48" alt="Adobe Illustrator" />
-      </a>
-      <br>Adobe Illustrator
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/120px-Adobe_XD_CC_icon.svg.png?20210729021535" width="48" height="48" alt="Adobe XD" />
-      </a>
-      <br>Adobe XD
     </td>
   </tr>
 </table>
