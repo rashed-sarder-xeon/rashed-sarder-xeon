@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Nice to see you </h1>
+<h1 align="center">Hey! Nice to see you </h1>
 
 <p align="center"> 
      <img src="https://visitor-badge.laobi.icu/badge?page_id=rashed-sarder-xeon" alt="Visitor"/>
@@ -10,18 +10,19 @@
 <!--     <a href="https://github.com/rashed-sarder-xeon/rashed-sarder-xeon" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/rashed-sarder-xeon/rashed-sarder-xeon?label=Profile%20update&style=fflat-square"></a> -->
 </p> 
 
-<h3 align="center">Hi 👋, I'm Md Rashed Sarder</h3>
+<h3 align="center">Hi, I'm Md Rashed Sarder</h3>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashed-sarder-xeon" alt="rashed-sarder-xeon" /></a> </p> -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashed-sarder-xeon&theme=gruvbox" alt="rashed-sarder-xeon" /></a> </p>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashed-sarder-xeon&" alt="rashed-sarder-xeon" /></p>
 
 ---
 
-### :blush: Talking about Personal Stuffs:
-
+<!-- ### :blush: Talking about Personal Stuffs: -->
+<!-- 
 <img align="right" height="250" width="400" alt="Md Rashed Sarder" src="assets/profile.gif" />
 
 -  💻 &nbsp; I love exploring new tech stacks and building cool stuff.
@@ -33,7 +34,7 @@
 -  👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
 -  📝 &nbsp; Checkout my [Website]( https://github.com/rashedsarder13).
 
----
+--- -->
 
 ### :dart: Languages and Tools:
 
